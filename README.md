@@ -22,6 +22,3 @@ python3 Ann.py
 
 ## Acknowledgements
 I would like to thank Dr. Rahul Nigam for giving me the opportunity to work on this project
-
-## License
-The software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of the merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
